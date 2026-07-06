@@ -1,6 +1,6 @@
 # Privacy Policy for ShirtScanner
 
-**Last updated:** [Jul 6]
+**Last updated:** Jul 6, 2026
 
 ShirtScanner ("the App") is a photo-to-3D scanning tool that lets you turn photos of shirts and bodies into 3D models for viewing and editing. This policy explains what happens to your data when you use it.
 
@@ -43,4 +43,4 @@ We may update this policy from time to time. Changes will be posted on this page
 
 ## Contact
 
-If you have questions about this policy, contact us at: [emilzwang@gmail.com]
+If you have questions about this policy, contact us at: emilzwang@gmail.com
